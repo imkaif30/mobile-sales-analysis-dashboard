@@ -7,13 +7,13 @@ An interactive **3-page Power BI dashboard** analyzing **3,835 mobile sales tran
 ## 📊 Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](Screenshots/Sales_Dashboard.png)
 
 ### MTD Dashboard
-![MTD Dashboard](MTD_Dashboard.png)
+![MTD Dashboard](Screenshots/MTD_Dashboard.png)
 
 ### SPLY Dashboard
-![SPLY Dashboard](SPLY_Dashboard.png)
+![SPLY Dashboard](Screenshots/SPLY_Dashboard.png)
 
 ---
 
